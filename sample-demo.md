@@ -15,5 +15,9 @@ partners: []
 show_staff: false
 description: This is a sample page
 publish_date: 2018-10-31 18:30:00 +0000
+menu:
+  navigation:
+    weight: 6
+    title: Sample demo
 
 ---
