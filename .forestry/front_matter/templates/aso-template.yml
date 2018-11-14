@@ -1,0 +1,8 @@
+---
+label: ASO Template
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: page_title
+  label: Page Title
