@@ -80,5 +80,6 @@ fields:
   hidden: true
   default: home
 pages:
+- another-location.md
 - demo-page.md
 - index.md

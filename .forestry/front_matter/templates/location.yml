@@ -10,5 +10,4 @@ fields:
   name: description
   label: description
 pages:
-- another-location.md
 - new-location.md
