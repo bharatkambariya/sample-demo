@@ -1,0 +1,11 @@
+---
+label: location
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: tile
+  label: tile
+- type: textarea
+  name: description
+  label: description
