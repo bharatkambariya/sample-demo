@@ -9,3 +9,5 @@ fields:
 - type: textarea
   name: description
   label: description
+pages:
+- new-location.md
