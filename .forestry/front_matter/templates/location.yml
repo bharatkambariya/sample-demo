@@ -10,5 +10,6 @@ fields:
   name: description
   label: description
 pages:
+- _location/second-location.md
 - _location/single-location.md
 - _location/location.md
